@@ -37,4 +37,4 @@ I am always open to collaborating on projects and innovative ideas. Find out mor
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=revenbro&show_icons=true&theme=gotham" alt="RevenBro" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revenbro&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="RevenBroo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revenbro&theme=onestar\&no-bg=true" alt="RevenBroo" /></a> </p>

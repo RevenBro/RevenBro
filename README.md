@@ -39,7 +39,7 @@ I am always open to collaborating on projects and innovative ideas. Find out mor
 
 <p align="center">
   <a href="https://github.com/revenbro">
-    <img src="https://github-profile-trophy.vercel.app/?username=revenbro&theme=SOME_THEME&column=-1&title=Repositories,Commits" alt="USERNAME" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=revenbro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" />
   </a>
 </p>
 

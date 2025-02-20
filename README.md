@@ -39,8 +39,6 @@ I am always open to collaborating on projects and innovative ideas. Find out mor
 
 <p align="center">
   <a href="https://github.com/revenbro">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=revenbro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=revenbro&theme=onedark)](https://github.com/RevenBro/RevenBro/blob/main/README.md)" />
   </a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

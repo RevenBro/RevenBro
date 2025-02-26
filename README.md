@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Aspiring Frontend Developer with a strong foundation in Next.js and TypeScript. Passionate about continuous learning and eager to explore backend development. Committed to becoming a versatile full-stack developer. 🚀 </br>
+Aspiring Frontend Developer with a strong foundation in React.js and TypeScript. Passionate about continuous learning and eager to explore backend development. Committed to becoming a versatile full-stack developer. 🚀 </br>
 
 I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 

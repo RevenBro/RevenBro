@@ -6,7 +6,7 @@ Aspiring Frontend Developer with a strong foundation in React.js and TypeScript.
 
 I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Saidakbarov_Abdulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidakbarovabdulloh/)](www.linkedin.com/in/saidakbarovabdulloh/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Saidakbarov_Abdulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidakbarov077/)](www.linkedin.com/in/saidakbarovabdulloh/) 
 [![Telegram Badge](https://img.shields.io/badge/@Saidakbarovv_A-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Saidakbarovv_A)](https://t.me/Saidakbarovv_A)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
